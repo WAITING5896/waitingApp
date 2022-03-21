@@ -103,6 +103,7 @@
 	.charts-box{
 		.top-container{
 			   display: flex;
+			   color:red;
 			   border-top: 1px solid rgba(93,97,105,.5);
 			   border-bottom: 1px solid rgba(93,97,105,.5);
 			   padding: 10px 0;

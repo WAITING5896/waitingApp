@@ -12,7 +12,7 @@ export default {
 		}
 	},
 	onLoad(query) {
-		this.imageUrl = query.list
+		this.imageUrl = query.list;
 	},
 	methods: {
 		// 长按图片
